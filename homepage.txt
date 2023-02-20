@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Home page
+</title>
+<style>
+</style>
+</head>
+<body>
+<list>
+	<ul>
+	<li>
+	<h1>Home><h1>
+	<p>Hello everyone. To know more <p>
+	</li>
+	<li>About us
+	</li>
+	<li>
+
+
+</body>
+</html>
